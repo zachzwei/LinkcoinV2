@@ -7,11 +7,18 @@ This is purely experimental.
 I will not be held liable for any loss or damages.
 
 ## Introduction
-An anonymous dev reached out to me to provide a solution for the current issue with Linkcoin revival.
+An anonymous dev reached out to me to provide a solution for the current issue with Linkcoin revival.  
 Currently the chain is stuck at block 387 and is unable to continue.
+
 ![telegram-cloud-photo-size-5-6260434156051873879-x](https://github.com/user-attachments/assets/3c40c9b2-a33b-46af-9a05-b710bf3799fa)
 
-V2 Windows Client is able to get past this block checkpoint. Unfortunately, we can only restart the chain again to utilize this new version.
+This new Linkcoin v2 client for Windows is able to get past this block checkpoint.  
+However, it will require a full chain restart.  
+If you still want to run this software, make sure to backup your wallet and block data before you proceed.  
+Final warning, I will not be held liable for any loss or damage.  
+This is purely experimental.  
+Not financial advise.
+
 ![telegram-cloud-photo-size-5-6260434156051873873-y](https://github.com/user-attachments/assets/733e89e9-1dcd-4aaf-a730-05caa077a60b)
 
 ## Instructions
